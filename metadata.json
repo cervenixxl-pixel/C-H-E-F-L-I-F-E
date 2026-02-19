@@ -1,0 +1,7 @@
+{
+  "name": "LuxePlate - Private Chef Experience",
+  "description": "A premium marketplace connecting discerning diners with world-class private chefs for unforgettable at-home culinary experiences. Features AI-driven chef matching and dynamic menu generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
